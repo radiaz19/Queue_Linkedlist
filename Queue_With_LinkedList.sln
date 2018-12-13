@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue_With_LinkedList", "Queue_With_LinkedList\Queue_With_LinkedList.vcxproj", "{D97DA88B-7459-4D98-B732-3763E2F3BD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97DA88B-7459-4D98-B732-3763E2F3BD3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D97DA88B-7459-4D98-B732-3763E2F3BD3E}.Debug|Win32.Build.0 = Debug|Win32
+		{D97DA88B-7459-4D98-B732-3763E2F3BD3E}.Release|Win32.ActiveCfg = Release|Win32
+		{D97DA88B-7459-4D98-B732-3763E2F3BD3E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
